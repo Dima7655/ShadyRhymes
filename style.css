@@ -59,6 +59,10 @@ body{
 .nav__item:last-child{
     margin-right: 60;
 }
+.social__basket{
+    width: 24px;
+    height: 24px;
+}
 .hero{
     display: flex;
     justify-content: center;
