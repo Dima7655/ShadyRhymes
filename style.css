@@ -62,6 +62,7 @@ body{
 .social__basket{
     width: 24px;
     height: 24px;
+    fill:#fff;
 }
 .hero{
     display: flex;
